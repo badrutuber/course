@@ -1,0 +1,22 @@
+/*CSS Document*/
+background{
+	color: blue;
+	margin: 0px;
+}
+h1{
+	color: white;
+	padding: 20px;
+	background-color: blue;
+	margin: 0px;
+}
+
+footer{
+
+	color: white;
+	background-color: blue;
+	padding: 20px;
+	text-align: center;
+	margin: 0px;
+}
+
+
